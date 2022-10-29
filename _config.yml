@@ -1,7 +1,5 @@
 title: "Remote theme example"
-remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+remote_theme: kitian616/jekyll-TeXt-theme
 
 
 # remote_theme: just-the-docs/just-the-docs
