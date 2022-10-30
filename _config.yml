@@ -15,14 +15,14 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # #    `--'   `----''--'   '--' `--'
 
 
-## => Site Settings
-##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://whatcould.xyz
-baseurl : /
-title   : WhatCloud
-description: Running your workloads on someone else's tin!
+# ## => Site Settings
+# ##############################
+# text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+# highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+# url     : https://whatcould.xyz
+# baseurl : /
+# title   : WhatCloud
+# description: Running your workloads on someone else's tin!
 
 
 # ## => Site Settings
