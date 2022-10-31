@@ -32,6 +32,8 @@ mathjax:
 google_fonts:
   - name: "Lobster"
     weights: "400,400i,700,700i"
+  - name: "Lobster"
+    weights: "400,400i,700,700i"
 #   - name: "Source Sans Pro"
 #     weights: "400,400i,700,700i"
 #   - name: "Lora"
